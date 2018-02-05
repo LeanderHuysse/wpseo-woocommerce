@@ -1,0 +1,11 @@
+
+{
+  "name": "IOLabs/wpseo-woocommerce",
+  "description": "Plugin mirror for: wpseo-woocommerce",
+  "license": "GPL",
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=5.3.2",
+    "composer/installers": "v1.0.6"
+  }
+}
